@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "img": "https://www.bjsports.live/wp-content/uploads/2023/08/1690383625521_17kohli1-Ej8N8H.jpeg",
+        "name": "Virat Kohli",
+        "country": "India",
+        "type": "BatsMan",
+        "position": "Left-Hand-Bat",
+        "price": 15000
+    },
+    {
+        "id": 2,
+        "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRw_3a2jJ-YIZlyMB18UwO1W8vQ_qnuHTzB4imGhwMjdloaXJRD-mXbitqGJv1X6857du0pgxYJ-gAvE0ElEQvMppRJx6Kz9I7MoXDc9ns",
+        "name": "Shakib All Hasan",
+        "country": "Bangladesh",
+        "type": "All-Rounder",
+        "position": "All-Rounder",
+        "price": 25000
+    },
+    {
+        "id": 3,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMFOuArCTohmfkabbQGSF3m0BWh74-J59vqw&s",
+        "name": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "type": "BatsMan",
+        "position": "BatsMan",
+        "price": 15000
+    },
+    {
+        "id": 4,
+        "img": "https://www.royalchallengers.com/PRRCB01/public/styles/1061x767_landscape/public/2024-08/GettyImages-2159877769.jpg?itok=OhtipunL",
+        "name": "Rohit Sharma",
+        "country": "India",
+        "type": "BatsMan",
+        "position": "BatsMan",
+        "price": 35000
+    },
+    {
+        "id": 5,
+        "img": "https://c.ndtvimg.com/2024-06/l347dt08_mitchell-starc-afp_625x300_24_June_24.jpg?im=FitAndFill,algorithm=dnn,width=806,height=605",
+        "name": "Mitchel Strack",
+        "country": "Austrolia",
+        "type": "Baller",
+        "position": "Baller",
+        "price": 15000
+    },
+    {
+        "id": 6,
+        "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_800,q_50/lsci/db/PICTURES/CMS/382300/382321.jpg",
+        "name": "Mustafizur Rahman",
+        "country": "Bangladesh",
+        "type": "Baller",
+        "position": "Baller",
+        "price": 5000
+    },
+    {
+        "id": 7,
+        "img": "https://media.crictracker.com/media/attachments/1720355499393_Abhishek-Sharma.jpeg",
+        "name": "Abisekh Sharma",
+        "country": "India",
+        "type": "BatsMan",
+        "position": "BatsMan",
+        "price": 15000
+    },
+    {
+        "id": 8,
+        "img": "https://crictoday.com/wp-content/uploads/2023/04/KL-Rahul-1-2.webp",
+        "name": "Kl Rahul",
+        "country": "India",
+        "type": "BatsMan",
+        "position": "BatsMan",
+        "price": 25000
+    },
+    {
+        "id": 9,
+        "img": "https://crictoday.com/wp-content/uploads/2023/04/previewnews_2023-12_956244e8-633e-4104-92ec-9b6388a73780_Untitled_design_43.webp",
+        "name": "Rinku Sing",
+        "country": "India",
+        "type": "BatsMan",
+        "position": "BatsMan",
+        "price": 35000
+    }
+]
