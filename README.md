@@ -1,8 +1,6 @@
-# React + Vite
+# BPL_DREAM_11
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dream11 is a popular fantasy sports platform that allows users to create their own virtual teams and participate in competitions for real-life cricket, football, basketball, and more. In the context of BPL (Bangladesh Premier League), the app offers an engaging way for fans to enhance their experience by competing in fantasy leagues based on live BPL matches.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Live Link:
+# https://starlit-banoffee-d0e85a.netlify.app/
